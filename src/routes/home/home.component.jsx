@@ -1,7 +1,6 @@
 import Directory from "../../components/directory/directory.component";
 
 const Home = () => {
-    console.log('apple')
     const categories = [
         {
             id: 1,
